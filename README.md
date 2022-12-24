@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [Attendance Management System](https://github.com/daw-team/gestionnaire)
+- 🔭 I’m currently working on [Ntic Viva](https://github.com/AmineZCS/ntic-viva/)
 
 - 🌱 I’m currently learning **Laravel**
 
