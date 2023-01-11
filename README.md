@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [Ntic Viva](https://github.com/AmineZCS/ntic-viva/)
+- 🔭 I’m currently working on [Viva Rest API](https://github.com/AmineZCS/ntic-viva/)
 
 - 🌱 I’m currently learning **Laravel**
 
