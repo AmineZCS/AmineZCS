@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Viva Rest API](https://github.com/AmineZCS/ntic-viva/)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Bash scripting**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
