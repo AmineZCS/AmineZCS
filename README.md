@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmineZCS?tab=repositories](https://github.com/AmineZCS?tab=repositories)
 
-- 💬 Ask me about **Algorithms and Data Structures**
-
 - 📫 How to reach me **medamineben19@gmail.com**
 <p align="center"> <a href="https://twitter.com/aminezcs" target="blank"><img src="https://img.shields.io/twitter/follow/aminezcs?logo=twitter&style=for-the-badge" alt="aminezcs" /></a> </p>
 
