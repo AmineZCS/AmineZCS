@@ -24,14 +24,13 @@ I’ve built complete backend systems for startups — from **database design** 
 
 🌍 I’m seeking a **remote role** where I can contribute to building impactful products.
 
----
-
-### 📄 Resume  
-<p align="center">
+<!-- 
+Resume 
+<!-- <p align="center">
   <a href="https://raw.githubusercontent.com/AmineZCS/AmineZCS/refs/heads/main/Amine_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-9b5de5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 ---
 
